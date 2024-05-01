@@ -10,7 +10,7 @@
             meaningful contributions. I'm currently learning all the basics. I've explored a few of the GitHub reposatory courses as well and
             I've enjoyed them. Honestly, I don't know what projects I'm looking forward to collaborating on yet but I will know when I find
             them. I look forward to meeting new people, learning new things, and towards the long journey ahead in these exciting fields. </p><br>
-        <h1>Thanks for visiting my GitHub Page!</h1>
+        <h1>Thanks for visiting my profile!</h1>
     </body>
   </div>
 </html>
