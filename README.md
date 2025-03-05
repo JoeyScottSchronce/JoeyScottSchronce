@@ -1,6 +1,8 @@
 # Hi there, I'm Joe
 
-I'm interested in developing a strong foundation in Web Development and Software Engineering. I'm excited to embark on a fulfilling journey where I can continuously learn and grow while making meaningful contributions. I've explored a few of the GitHub reposatory courses as well and I've enjoyed them. Honestly, I don't know what projects I'm looking forward to collaborating on yet but I will know when I find them. I look forward to meeting new people, learning new things, and towards the long journey ahead in these exciting fields.
+I'm interested in continuing to develop a stronger foundation in Software Engineering. I currently have experience in creating Applications using Vite & React, Python apps with Flask, CRUD apps with MongoDB, and Node with Express. I've also learned how to create unit tests in Python with unittests, and JavaScript with Jasmine, for test-driven and behavior-driven development. I'm familiar with containerization using Docker, Kubernetes, & OpenShift, as well as building CI/CD pipelines. I also have an understanding of Agile & how to practice DevOps.
+
+I would like to gain more hand-on experience by contributing to GitHub and I'd like to meeting more people with similar interests and abilities to learn and grow with.  
 
 ## Thanks for visiting my profile
 
