@@ -1,6 +1,6 @@
-# Hi there, I'm Joe
+# Hello, I'm Joe
 
-I'm interested in continuing to develop a stronger foundation in Software Engineering. I currently have experience in creating Applications using Vite & React, Python apps with Flask, CRUD apps with MongoDB, and Node with Express. I've also learned how to create unit tests in Python with unittests, and JavaScript with Jasmine, for test-driven and behavior-driven development. I'm familiar with containerization using Docker, Kubernetes, & OpenShift, as well as building CI/CD pipelines. I also have an understanding of Agile & how to practice DevOps. I would like to gain more hand-on experience by contributing to GitHub and by finding an entry-level programming position. I would also like to meet more people with similar interests and abilities to learn and grow with.  
+I’m a dedicated and detail-oriented software developer with a strong foundation in web development and software engineering. I have experience in building scalable backend applications using Python with the Flask and Django frameworks, as well as frontend development with JavaScript using the React and Vite frameworks. I am proficient in creating and managing CI/CD pipelines using Tekton, and deploying containerized applications to IBM Cloud Container Registry, using tools like Docker, Kubernetes, and OpenShift. I’ve also been taught how to use version control with Git/GitHub, cloud-native technologies, and NoSQL databases such as MongoDB. I have a solid understanding of Test-Driven and Behavior-Driven Development, along with the DevOps, Agile, and Scrum methodologies. 
 
 ## Thanks for visiting my profile
 
