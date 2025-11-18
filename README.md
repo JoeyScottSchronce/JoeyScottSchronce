@@ -8,3 +8,5 @@ In the early stages of my software development training, I've built scalable bac
 JoeyScottSchronce/JoeyScottSchronce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![JoeyScottSchronce's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeyScottSchronce&show_icons=true&theme=transparent)
