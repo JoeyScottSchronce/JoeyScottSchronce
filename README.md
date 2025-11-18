@@ -11,5 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoeyScottSchronce&show_icons=true&theme=transparent" alt="GitHub stats" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeyScottSchronce&layout=compact&theme=transparent" alt="Top Languages" />
 </div>
